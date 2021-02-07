@@ -9,4 +9,4 @@ This includes the algorithm for several interpolation methods:
 * Langrange interpolation  
 
 ### Results  
-Includes images and plots generated for the algorithm
+Includes images and plots generated from the algorithm
